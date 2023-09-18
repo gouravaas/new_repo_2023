@@ -1,3 +1,4 @@
 Creating the new file.
 Adding some content from Local repository
 Hello from remote repo also
+checking the graph format
